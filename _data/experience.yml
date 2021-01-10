@@ -1,4 +1,14 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
-  logo: fellowship.svg
+- role: ML Lead
+  company: Developer Student Clubs
+  dates: 2020- Present
+  logo: dsc.png
+
+- role: Writer
+  company: Towards Data Science
+  dates: 2020- Present
+  logo: tds.png
+
+- role: Co-Organizer and CA-Coordinator
+  company: DSC WoW
+  dates: 2020
+  logo: wow.png
